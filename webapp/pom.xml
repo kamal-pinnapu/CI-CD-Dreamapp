@@ -11,6 +11,7 @@
   </parent>
 
   <artifactId>webapp</artifactId>
+  <version>version1.0-devops</version>
   <packaging>war</packaging>
   <name>Webapp</name>
   <description>Webapp.</description>
